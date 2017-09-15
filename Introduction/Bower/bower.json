@@ -1,0 +1,8 @@
+
+{
+  "name": "nareshit",
+  "dependencies": {
+    "angular": "latest",
+    "bootstrap": "latest"
+  }
+}

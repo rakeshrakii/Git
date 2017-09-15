@@ -1,0 +1,17 @@
+{
+  "name": "Gulp",
+  "version": "0.0.1",
+  "dependencies": {
+    "name": "gulpdemo",
+    "version": "0.0.1",
+    "dependencies": {
+      "gulp": "^latest",
+      "gulp-concat": "latest",
+      "gulp-uglify": "^latest",
+      "gulp-minify-css": "latest",
+      "gulp-minify-html": "latest",
+      "gulp-bower":"^latest",
+      "gulp-open":"latest"
+    
+  }
+}
