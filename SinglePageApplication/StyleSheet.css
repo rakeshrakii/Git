@@ -1,0 +1,42 @@
+body{
+    margin:0;
+    background: rgba(96,74,100,0.3);
+}
+header{
+    background: #5e5e5e;
+    padding: 1px;
+    text-align: center;
+}
+footer{
+    background: #5e5e5e;
+    text-align: center;
+
+}
+address{
+    margin-right: 1000px;
+}
+.Content{
+    width: 100%;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li,a{display: block;
+    text-decoration: none;
+    padding: 8px 16px;
+}
+
+li{
+    float: left;
+}
+.block{
+    width: 500px;
+    height: 400px;
+    background: rgba(74,120,165,0.3);
+    margin: 5px;
+}
